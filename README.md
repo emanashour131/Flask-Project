@@ -1,4 +1,4 @@
-<h1 align="center"> HEALTH </h1>
+<h1 align="center"> HEALTH INSURANCE</h1>
 
 ![Project](https://user-images.githubusercontent.com/68168970/152428811-f9e44478-b1a2-4fae-b89c-27fcf4178317.png)
 
